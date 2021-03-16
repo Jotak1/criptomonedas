@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/criptomonedas/static/css/main.c0b75108.chunk.css",
+    "main.js": "/criptomonedas/static/js/main.58c4d837.chunk.js",
+    "main.js.map": "/criptomonedas/static/js/main.58c4d837.chunk.js.map",
+    "runtime-main.js": "/criptomonedas/static/js/runtime-main.b8eedef6.js",
+    "runtime-main.js.map": "/criptomonedas/static/js/runtime-main.b8eedef6.js.map",
+    "static/js/2.c3475550.chunk.js": "/criptomonedas/static/js/2.c3475550.chunk.js",
+    "static/js/2.c3475550.chunk.js.map": "/criptomonedas/static/js/2.c3475550.chunk.js.map",
+    "static/js/3.a8d635cb.chunk.js": "/criptomonedas/static/js/3.a8d635cb.chunk.js",
+    "static/js/3.a8d635cb.chunk.js.map": "/criptomonedas/static/js/3.a8d635cb.chunk.js.map",
+    "index.html": "/criptomonedas/index.html",
+    "static/css/main.c0b75108.chunk.css.map": "/criptomonedas/static/css/main.c0b75108.chunk.css.map",
+    "static/js/2.c3475550.chunk.js.LICENSE.txt": "/criptomonedas/static/js/2.c3475550.chunk.js.LICENSE.txt",
+    "static/media/cripto.a6cec63a.png": "/criptomonedas/static/media/cripto.a6cec63a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8eedef6.js",
+    "static/js/2.c3475550.chunk.js",
+    "static/css/main.c0b75108.chunk.css",
+    "static/js/main.58c4d837.chunk.js"
+  ]
+}
